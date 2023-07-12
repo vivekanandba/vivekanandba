@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @vivekanandba
-- 👀 I’m interested in space, automation, AI
+- 👀 I’m interested in space, automation, robotics, AI
 - 🌱 I’m currently learning AI, automation
 - 💞️ I’m looking to collaborate on all of my interest areas
 - 📫 How to reach me vivekanandb@hotmail.com
